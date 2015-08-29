@@ -1,0 +1,8 @@
+git add .
+git commit -m message
+git status
+git branch
+git log
+git checkout branchname
+touch git_notes.txt   (adds a file to the branch - UNIX COMMAND)
+
