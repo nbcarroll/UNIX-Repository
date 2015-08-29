@@ -1,12 +1,42 @@
-history | less
 history
+git history
+subl history
+ls -la
+ls
+git log
+git status
+git commit -m unixnotes
+git add . unix_notes.txt
+git init
+cd unix_workshop/
+mv ./unix_workshop/moving_around.txt ./unix_workshop/unix_notes.txt
+git add . unix_workshop/
+
+#USING GIT
+git add. unix_workshop/
+get add. unix_workshop/
+git branch
+cd
+cd un
+mv moving_around.txt  ./unix_workshop/
+man delete
+pwd
+mkdir unix_workshop
+subl Desktop/
+subl moving_around.txt
+subl moving
+man open
+open
+open sublime to the current directory
+ls -t | less
+ls -rt
+-rt
+history > moving_around.txt
+history | less
 cd ..
 cd ../Movies/
 cd desktop
-cd
 ls -l
-ls
-pwd
 cd work
 cd drwxr-xr-x
 drwxr-xr-x
@@ -18,15 +48,13 @@ cd users
 cd /
 cd ~/D
 cd cynth
-git config --global email.name   
+git config --global email.name
 git config --global email.name 'cawhitlatch2@gmail.com'
 git config --global user.name 'Cynthia Whitlatch'
-git config --global user.name 
+git config --global user.name
 global user.name
-git branch
 curl -fsSL http://git.io/QxUaOQ | sh
 curl -fsSL http://git.io/7UHtNA | sh
-git status
 git config --global user.name 'YOUR FULL NAME'
 git --version
 brew install git
@@ -38,7 +66,7 @@ subl ~/.config/fish/config.fish
 ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
 brew update
 brew doctor
-brew in 
+brew in
 brew info fish
 brew in
 brew
@@ -50,7 +78,7 @@ curl -fsSL http://git.io/beJs | ruby
                 for artworkJSON in jsonData {;                     if let artworkJSON = artworkJSON.array, artwork = Artwork.fromJSON(artworkJSON) {
         if let jsonObject = jsonObject as? [String: AnyObject] where error == nil,;                          // Only interested in object whose key is "data"... Loop thru array check that each element is an array;             let jsonData = JSONValue.fromObject(jsonObject)?["data"]?.array {
         // Check that the JSON object is a dictionary where the keys are Strings and the Values can be AnyObject
-        
+
             options: NSJSONReadingOptions(0), error: &error)
         let jsonObject: AnyObject? = NSJSONSerialization.JSONObjectWithData(data,
         var error: NSError?
@@ -89,7 +117,6 @@ git push origin lyndamapkits-0626
 git commit -m 0626
 git checkout -b lyndamapkits-0626
 git remote add origin https://github.com/Notsosof1/LyndaMapKit.git
-git init
 cd lyndamapkits
 git checkout -b blocnotes-coredata
 git staus
@@ -124,7 +151,7 @@ git commit -m blocwatch-0624
 git checkout -b blocwatch-0624
 git push origin blocwatch-0623
 git commit -m blocwatch-0623
-git add . 
+git add .
 git checkout -b blocwatch-0623
 pod install
 open podfile
