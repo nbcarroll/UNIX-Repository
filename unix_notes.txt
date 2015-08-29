@@ -1,0 +1,197 @@
+history | less
+history
+cd ..
+cd ../Movies/
+cd desktop
+cd
+ls -l
+ls
+pwd
+cd work
+cd drwxr-xr-x
+drwxr-xr-x
+man ls
+ls -t
+cd cynthiawhitlatch/
+cd cyn
+cd users
+cd /
+cd ~/D
+cd cynth
+git config --global email.name   
+git config --global email.name 'cawhitlatch2@gmail.com'
+git config --global user.name 'Cynthia Whitlatch'
+git config --global user.name 
+global user.name
+git branch
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git status
+git config --global user.name 'YOUR FULL NAME'
+git --version
+brew install git
+echo $PATH
+echo
+subl /etc/paths
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew update
+brew doctor
+brew in 
+brew info fish
+brew in
+brew
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+                    // Pass each artwork's array to the fromJSON method that you just added to the Artwork class.  If it returns a valid Artwork object, you append it to the artworks array.
+                    }
+                        artworks.append(artwork)
+                for artworkJSON in jsonData {;                     if let artworkJSON = artworkJSON.array, artwork = Artwork.fromJSON(artworkJSON) {
+        if let jsonObject = jsonObject as? [String: AnyObject] where error == nil,;                          // Only interested in object whose key is "data"... Loop thru array check that each element is an array;             let jsonData = JSONValue.fromObject(jsonObject)?["data"]?.array {
+        // Check that the JSON object is a dictionary where the keys are Strings and the Values can be AnyObject
+        
+            options: NSJSONReadingOptions(0), error: &error)
+        let jsonObject: AnyObject? = NSJSONSerialization.JSONObjectWithData(data,
+        var error: NSError?
+        // Use NSJSONSerialization to obtain a JSON object
+            error: &readError)!
+        var readError : NSError?
+        let fileName = NSBundle.mainBundle().pathForResource("SeattleJSON", ofType: "json");
+        // Reading the PublicArt.json file into an NSData Object
+git checkout     func loadInitialData() {
+git checkout blocmaps-localsearch
+git push origin blocmap-0629-1802hrs
+git commit -m blocmap
+git commit -m
+git add .
+git checkout -b blocmap-0629-1802hrs
+git checkout blocmaps-hawaii4
+git checkout blockmaps-hawaii4
+git stash
+git checkout blockmaps-seattle
+git push origin blocmaps-localsearch
+git commit -m blocmaps
+git checkout -b blocmaps-localsearch
+git push origin blockmaps-seattle
+git commit -m blockmaps
+git checkout -b blockmaps-seattle
+git checkout -b blocmaps-hawaii4
+git push origin blocmaps-hawaii3
+git checkout -b blocmaps-hawaii3
+git push origin blocmaps-hawaii2
+git checkout -b blocmaps-hawaii2
+git push origin blocmaps-hawaii
+git remote add origin https://github.com/Notsosof1/BlocMAPS.git
+git checkout -b blocmaps-hawaii
+cd blocmaps
+git push origin lyndamapkits-0626
+git commit -m 0626
+git checkout -b lyndamapkits-0626
+git remote add origin https://github.com/Notsosof1/LyndaMapKit.git
+git init
+cd lyndamapkits
+git checkout -b blocnotes-coredata
+git staus
+git push origin blocnotes-Userdefaults
+git push origin blocnotes-userdefaults
+git commit -m userdefaults
+git checkout -b blocnotes-Userdefaults
+git push origin blocnotes-0625a
+git commit -m 0625a
+git checkout -b blocnotes-0625a
+git checkout master
+git checkout blocnotes-0625
+git push origin blocnotes-0625
+git remote add origin https://github.com/Notsosof1/Blocnotes.git
+git commit -m blocnotes-0625
+git checkout -b blocnotes-0625
+cd blocnotes
+cd blocstagram
+git push origin blocnotes0625
+git commit -m blocnotes0625
+git checkout -b master
+git checkout -b blocnotes0625
+git checkout blocwatch-0624
+git push origin blocwatch-0622
+git commit -m blocwatch-0622
+git checkout blocwatch-0622
+git commit -m 0624
+git commit -m blocwatch
+git checkout blocwatch-0623
+git push origin blocwatch-0624
+git commit -m blocwatch-0624
+git checkout -b blocwatch-0624
+git push origin blocwatch-0623
+git commit -m blocwatch-0623
+git add . 
+git checkout -b blocwatch-0623
+pod install
+open podfile
+pod open
+git checkout -b blocwatch-0622
+git push origin blocwatch-0621
+git commit -m blocwatch-0621
+git checkout -b blocwatch-0621
+git push origin blocwatch
+git checkout -b blocwatch
+git checkout exercise-42-filters
+git checkout watchkit
+git push origin exercise-42-filters
+git commit -m exercise
+install podfile
+touch podfile
+sudo gem install cocoapods
+git push origin exercise-41-photolibrary
+git commit -m exercise-41
+git checkout exercise-41-photolibrary
+git add
+git checkout exercise-41-photoLibrary
+pod list
+pod touch
+open Podfile
+touch Podfile
+sudo gem install cocoapods --verbose
+git checkout -b watchkit
+git commit -m exercise-42-filters
+git checkout exercise-43-ipadcustomization
+git checkout exercise-45-reducebugs
+git push origin june15-2253hrs
+git push origin juner15-2253hrs
+git commit -m juner15-2253hrs
+git checkout -b june15-2253hrs
+git push origin june15-2015hrs
+git commit -m june15-2015hrs
+git checkout -b june15-2015hrs
+cd pong2
+git checkout june15-2007hrs
+cd pong
+git push origin june15-2021hrs
+git commit -m june15-2021hrs
+git checkout -b june15-2021hrs
+git ls
+git push -u origin master
+git remote add origin https://github.com/Notsosof1/PONG2.git
+git push origin pong2
+git commit -m pong2
+it remote add origin https://github.com/Notsosof1/PONG2.git
+git checkout june15
+git push origin june15-2007hrs
+git commit -m june15-2007hrs
+git checkout -b june15-2007hrs
+git push origin june15
+git remote add origin https://github.com/Notsosof1/PONG.git
+git clone https://github.com/Notsosof1/PONG.git
+git commit -m june15
+git checkout -b june15
+git push origin controlpaddle
+git commit -m controlpaddle
+git merge master
+git checkout -b controlpaddle
+git push origin master
+git remote
+git push master pong
+git push origin pong
+git commit -m master
+git checkout exercise-44-unittests
+git merge exercise-44-unittests
